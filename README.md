@@ -51,15 +51,6 @@ Atualmente, estou migrando para a área de **desenvolvimento web** — unindo mi
 
 🎨 **[Portfolio Design](https://www.behance.net/denissousa8388)** — Projetos gráficos e identidades visuais.
 
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-![Denis GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
