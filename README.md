@@ -55,9 +55,8 @@ Atualmente, estou migrando para a área de **desenvolvimento web** — unindo mi
 ---
 
 ## 💬 Entre em contato
-📫 **Email:** seuemail@gmail.com  
+📫 **Email:** denisaraujo.me@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/denis-ara%C3%BAjo-3b4403199/)  
-✉️ [Email](denisaraujo.me@gmail.com)  
 
 ---
 
